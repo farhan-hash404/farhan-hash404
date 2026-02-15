@@ -18,7 +18,7 @@ Joined GitHub: 2022
 I build <b>Agentic AI systems</b> and <b>Generative AI applications</b>.<br><br>
  Currently focused on autonomous multi-agent workflows <br>
  Deep Learning, LLM orchestration, and AI system design <br>
- Building from Feb 16, 2025 onward
+ Building from Feb 13, 2025 onward
 </p>
 
 ---
